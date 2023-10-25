@@ -1,10 +1,9 @@
 # JSON_Server_Deployment
 
+# Steps to use 
+ replace db.json file of this repo with our own db.json file-> deploy on render
 
 
-
-By utilizing the provided template, you will be able to create your JSON server repository, which can be deployed on render.com
---------------
 
 
 [![Nice UI](https://img.youtube.com/vi/W9sbA1a2-Ag/0.jpg)](https://www.youtube.com/watch?v=W9sbA1a2-Ag)
